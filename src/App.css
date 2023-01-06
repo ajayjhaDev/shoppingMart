@@ -1,0 +1,28 @@
+.crt > div {
+  margin-left: 15px !important;
+}
+
+i {
+  cursor: pointer;
+}
+
+.total {
+  background-color: rgb(155, 16, 16);
+
+  display: inline;
+  position: relative;
+  left: 30px;
+  bottom: 10px;
+
+  border-radius: 50%;
+  cursor: pointer;
+  padding: 1px;
+}
+
+.crtItems > div {
+  margin-left: 20px;
+  border-radius: 10px;
+}
+.crtItems {
+  border: 1px solid rgb(214, 222, 231);
+}
